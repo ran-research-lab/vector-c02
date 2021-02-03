@@ -1,3 +1,3 @@
-# catch example
+# A function to practice with vectors
 
-An example catch2 file is given. Your task is to create a new function and its corresponding tests. See the instructions provided by the instructor. 
+Implement the two functions as explained in the instructions
